@@ -2,4 +2,4 @@ spring:
   application:
     name: edusmart-config-server
 
-name: development
+name: production
