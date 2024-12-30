@@ -1,5 +1,5 @@
-spring:
-  application:
-    name: edusmart-config-server
+#spring:
+#  application:
+#    name: edusmart-config-server
 
 name: production
